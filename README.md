@@ -1,6 +1,8 @@
-# Ada Lovelace — Mulheres na Tecnologia
+# Ada Lovelace — Meu Primeiro Projeto Web
 
-Projeto desenvolvido durante meus estudos na **Programaria**, com o objetivo de praticar desenvolvimento web e apresentar a história de mulheres que contribuíram para a tecnologia.
+Meu primeiro projeto desenvolvido durante minha jornada de aprendizado em tecnologia, como parte dos estudos na **Programaria**.
+
+Este projeto marcou meu primeiro contato prático com desenvolvimento web, permitindo aplicar conceitos de HTML, CSS e JavaScript na construção de uma página sobre a história de Ada Lovelace e sua importância para a tecnologia.
 
 🌐 **Acesse o projeto:** https://bernardo-ross.github.io/site-ada/
 
@@ -16,42 +18,32 @@ A página também destaca outras mulheres importantes para a tecnologia, incenti
 - CSS3
 - JavaScript
 
-## Funcionalidades e implementações
+## O que aprendi neste projeto
 
-- Estruturação de conteúdo com HTML.
-- Estilização da página utilizando CSS.
-- Navegação entre seções por links internos.
-- Organização de conteúdo em seções.
-- Formulário com campos de nome, e-mail e telefone.
-- Validação básica dos campos utilizando JavaScript.
-- Exibição de mensagens de interação para o usuário.
+Por ser meu primeiro projeto web, ele representou uma etapa importante na construção da minha base como desenvolvedor.
 
-## Aprendizados
+Durante o desenvolvimento, tive a oportunidade de praticar:
 
-Durante o desenvolvimento, pratiquei conceitos fundamentais de desenvolvimento web, incluindo:
-
-- Estrutura e semântica HTML.
+- Estruturação de páginas com HTML.
 - Estilização e organização visual com CSS.
-- Manipulação de elementos com JavaScript.
-- Eventos e validação de formulários.
-- Organização de arquivos e pastas de um projeto web.
-- Publicação de páginas utilizando GitHub Pages.
+- Primeiros conceitos de JavaScript.
+- Interação e validação de formulários.
+- Organização de arquivos e pastas.
+- Publicação de projetos utilizando GitHub Pages.
 
 ## Estrutura do projeto
 
 ```text
 site-ada/
 ├── css/
-│   └── style.css
 ├── img/
 ├── js/
-│   └── .js
 └── index.html
 ```
 
 ## Créditos
 
-Projeto desenvolvido como atividade de aprendizado durante meus estudos na **Programaria**.
+Projeto desenvolvido durante meus estudos na **Programaria**, como parte do meu primeiro contato prático com desenvolvimento web.
 
 ---
 
